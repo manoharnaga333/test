@@ -15,7 +15,7 @@
 // // console.log(x);
 // var y;
 // console.log(y==x,x===y,"cool");
-
+let x = 5;
 class Car{
     constructor(name){
         this.name = name;
